@@ -27,7 +27,7 @@ Knuth-Morris-Pratt | kmp.cpp | C++ | CLRS, pg 1005-1006 |
 <a href = "https://leetcode.com/problems/two-sum" target = "blank">TwoSum</a> |  two_sum.py | Python | 
 <a href = "https://leetcode.com/problems/3sum" target = "blank">3Sum</a> |  3sum.py | Python | 
 <a href = "https://leetcode.com/problems/permutation-in-string" target = "blank">Permutation in String</a> |  permutation_in_a_string.cpp | C++ | 
-<a href = "https://leetcode.com/problems/number-of-closed-islands" target = "blank">Number of Islands</a> |  num_of_islands.py | Python | 
+<a href = "https://leetcode.com/problems/number-of-islands" target = "blank">Number of Islands</a> |  number_of_islands.py | Python | 
 <a href = "https://leetcode.com/problems/decode-ways" target = "blank">Decode Ways</a> |  decode_ways.py | Python | 
 <a href = "https://leetcode.com/problems/group-anagrams" target = "blank">Group Anagrams</a> |  group_anagrams.cpp | C++ | 
 <a href = "https://leetcode.com/problems/implement-strstr" target = "blank">Implement strStr()</a> |  kmp.cpp | C++ | 
@@ -35,3 +35,4 @@ Knuth-Morris-Pratt | kmp.cpp | C++ | CLRS, pg 1005-1006 |
 <a href = "https://leetcode.com/problems/magic-squares-in-grid" target = "blank">Magic Squares In Grid</a> |  magic_squares_in_grid.cpp | C++ | 
 <a href = "https://leetcode.com/problems/walking-robot-simulation" target = "blank">Walking Robot Simulation</a> |  walking_robot_simulation.cpp | C++ | 
 <a href = "https://leetcode.com/problems/k-diff-pairs-in-an-array" target = "blank">K-diff Pairs in an Array</a> |  k-diff_pairs_in_an_array.cpp | C++ | 
+<a href = "https://leetcode.com/problems/linked-list-cycle" target = "blank">Linked List Cycle</a> |  linked_list_cycle.cpp | C++ | 
