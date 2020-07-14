@@ -25,7 +25,7 @@ Knuth-Morris-Pratt | kmp.cpp | C++ | CLRS, pg 1005-1006 |
 | Challenge | Filename | Language |
 --- | --- | ---
 <a href = "https://leetcode.com/problems/two-sum" target = "blank">TwoSum</a> |  two_sum.py | Python | 
-<a href = "https://leetcode.com/problems/3sum" target = "blank">3Sum</a> |  3sum.py | Python | 
+<a href = "https://leetcode.com/problems/3sum" target = "blank">3Sum</a> |  3_sum.cpp | C++ | 
 <a href = "https://leetcode.com/problems/permutation-in-string" target = "blank">Permutation in String</a> |  permutation_in_a_string.cpp | C++ | 
 <a href = "https://leetcode.com/problems/number-of-islands" target = "blank">Number of Islands</a> |  number_of_islands.py | Python | 
 <a href = "https://leetcode.com/problems/decode-ways" target = "blank">Decode Ways</a> |  decode_ways.py | Python | 
@@ -36,4 +36,6 @@ Knuth-Morris-Pratt | kmp.cpp | C++ | CLRS, pg 1005-1006 |
 <a href = "https://leetcode.com/problems/walking-robot-simulation" target = "blank">Walking Robot Simulation</a> |  walking_robot_simulation.cpp | C++ | 
 <a href = "https://leetcode.com/problems/k-diff-pairs-in-an-array" target = "blank">K-diff Pairs in an Array</a> |  k-diff_pairs_in_an_array.cpp | C++ | 
 <a href = "https://leetcode.com/problems/linked-list-cycle" target = "blank">Linked List Cycle</a> |  linked_list_cycle.cpp | C++ | 
+<a href = "https://leetcode.com/problems/first-bad-version" target = "blank">First Bad Version</a> |  first_bad_version.cpp | C++ | 
 <a href = "https://leetcode.com/problems/maximum-product-of-three-numbers" target = "blank">Maximum Product of Three Numbers</a> |  maximum_product_of_three_numbers.cpp | C++ | 
+<a href = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock" target = "blank">Best Time to Buy and Sell Stock</a> |  best_time_to_buy_and_sell_stock.cpp | C++ | 
