@@ -32,6 +32,7 @@ Knuth-Morris-Pratt | kmp.cpp | C++ | CLRS, pg 1005-1006 |
 <a href = "https://leetcode.com/problems/group-anagrams" target = "blank">Group Anagrams</a> |  group_anagrams.cpp | C++ | 
 <a href = "https://leetcode.com/problems/implement-strstr" target = "blank">Implement strStr()</a> |  kmp.cpp | C++ | 
 <a href = "https://leetcode.com/problems/subrectangle-queries" target = "blank">Subrectangle Queries</a> |  subrectangle_queries.cpp | C++ | 
+<a href = "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to" target = "blank">Group the People Given the Group ...</a> |  group_the_people_group_size.cpp | C++ | 
 <a href = "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards" target = "blank">X of a Kind in a Deck of Cards</a> |  x_of_a_kind_in_a_deck_of_cards.cpp | C++ | 
 <a href = "https://leetcode.com/problems/magic-squares-in-grid" target = "blank">Magic Squares In Grid</a> |  magic_squares_in_grid.cpp | C++ | 
 <a href = "https://leetcode.com/problems/letter-tile-possibilities" target = "blank">Letter Tile Possibilities</a> |  letter_tile_possibilities.cpp | C++ | 
