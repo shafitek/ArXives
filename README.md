@@ -39,6 +39,7 @@ Knuth-Morris-Pratt | kmp.cpp | C++ | CLRS, pg 1005-1006 |
 <a href = "https://leetcode.com/problems/walking-robot-simulation" target = "blank">Walking Robot Simulation</a> |  walking_robot_simulation.cpp | C++ | 
 <a href = "https://leetcode.com/problems/k-diff-pairs-in-an-array" target = "blank">K-diff Pairs in an Array</a> |  k-diff_pairs_in_an_array.cpp | C++ | 
 <a href = "https://leetcode.com/problems/linked-list-cycle" target = "blank">Linked List Cycle</a> |  linked_list_cycle.cpp | C++ | 
+<a href = "https://leetcode.com/problems/reverse-linked-list" target = "blank">Reverse Linked List</a> |  reverse_linked_list.cpp | C++ | 
 <a href = "https://leetcode.com/problems/first-bad-version" target = "blank">First Bad Version</a> |  first_bad_version.cpp | C++ | 
 <a href = "https://leetcode.com/problems/binary-tree-inorder-traversal" target = "blank">Binary Tree Inorder Traversal</a> |  binary_tree_inorder_traversal.cpp | C++ | 
 <a href = "https://leetcode.com/problems/maximum-product-of-three-numbers" target = "blank">Maximum Product of Three Numbers</a> |  maximum_product_of_three_numbers.cpp | C++ | 
