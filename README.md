@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 24
+Total: 25
 
 | Challenge | Filename |
 --- | --- 
@@ -39,6 +39,7 @@ Total: 24
 [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray) |  [longest_turbulent_subarray.cpp](longest_turbulent_subarray.cpp) | 
 [Group the People Given the Group ...](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) |  [group_the_people_group_size.cpp](group_the_people_group_size.cpp) | 
 [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) |  [x_of_a_kind_in_a_deck_of_cards.cpp](x_of_a_kind_in_a_deck_of_cards.cpp) | 
+[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|  [contains_duplicate_ii.cpp](contains_duplicate_ii.cpp) | 
 [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid) |  [magic_squares_in_grid.cpp](magic_squares_in_grid.cpp) | 
 [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) |  [letter_tile_possibilities.cpp](letter_tile_possibilities.cpp) | 
 [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation) |  [walking_robot_simulation.cpp](walking_robot_simulation.cpp) | 
