@@ -47,6 +47,7 @@ Total: 25
 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |  [linked_list_cycle.cpp](linked_list_cycle.cpp) | 
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |  [reverse_linked_list.cpp](reverse_linked_list.cpp) | 
 [First Bad Version](https://leetcode.com/problems/first-bad-version) |  [first_bad_version.cpp](first_bad_version.cpp) | 
+[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |  [merge_two_binary_trees.cpp](merge_two_binary_trees.cpp) | 
 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |  [binary_tree_inorder_traversal.cpp](binary_tree_inorder_traversal.cpp) | 
 [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) |  [maximum_product_of_three_numbers.cpp](maximum_product_of_three_numbers.cpp) | 
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|  [best_time_to_buy_and_sell_stock.cpp](best_time_to_buy_and_sell_stock.cpp) |
