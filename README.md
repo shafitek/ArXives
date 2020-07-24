@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 25
+Total: 26
 
 | Challenge | Filename |
 --- | --- 
