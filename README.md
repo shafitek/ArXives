@@ -33,6 +33,7 @@ Total: 27
 [Decode Ways](https://leetcode.com/problems/decode-ways) |  [decode_ways.py](decode_ways.py) | Python | 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams) |  [group_anagrams.cpp](group_anagrams.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
+[Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
 [Implement strStr()](https://leetcode.com/problems/implement-strstr) |  [kmp.cpp](kmp.cpp) | 
 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries) |  [subrectangle_queries.cpp](subrectangle_queries.cpp) | 
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |  [generate_parentheses.cpp](generate_parentheses.cpp) | 
