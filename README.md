@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 27
+Total: 28
 
 | Challenge | Filename |
 --- | --- 
@@ -54,3 +54,4 @@ Total: 27
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |  [bulls_and_cows.cpp](bulls_and_cows.cpp) | 
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|  [best_time_to_buy_and_sell_stock.cpp](best_time_to_buy_and_sell_stock.cpp) |
 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|  [best_time_to_buy_and_sell_stock_ii.cpp](best_time_to_buy_and_sell_stock_ii.cpp) | 
+[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|  [verifying_an_alien_dictionary.cpp](verifying_an_alien_dictionary.cpp) | 
