@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 28
+Total: 30
 
 | Challenge | Filename |
 --- | --- 
@@ -30,6 +30,7 @@ Total: 28
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [Permutation in String](https://leetcode.com/problems/permutation-in-string) |  [permutation_in_a_string.cpp](permutation_in_a_string.cpp) | 
 [Number of Islands](https://leetcode.com/problems/number-of-islands) |  [number_of_islands.py](number_of_islands.py) | Python | 
+[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) |  [number_of_closed_islands.cpp](number_of_closed_islands.cpp) | C++ | 
 [Decode Ways](https://leetcode.com/problems/decode-ways) |  [decode_ways.py](decode_ways.py) | Python | 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams) |  [group_anagrams.cpp](group_anagrams.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
