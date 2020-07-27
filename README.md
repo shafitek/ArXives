@@ -22,18 +22,19 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 31
+Total: 32
 
 | Challenge | Filename |
 --- | --- 
 [TwoSum](https://leetcode.com/problems/two-sum) |  [two_sum.py](two_sum.py) | Python | 
-[3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [Permutation in String](https://leetcode.com/problems/permutation-in-string) |  [permutation_in_a_string.cpp](permutation_in_a_string.cpp) | 
 [Number of Islands](https://leetcode.com/problems/number-of-islands) |  [number_of_islands.py](number_of_islands.py) | Python | 
 [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) |  [number_of_closed_islands.cpp](number_of_closed_islands.cpp) | C++ | 
 [Decode Ways](https://leetcode.com/problems/decode-ways) |  [decode_ways.py](decode_ways.py) | Python | 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams) |  [group_anagrams.cpp](group_anagrams.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
+[3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
+[01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
 [Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
 [Implement strStr()](https://leetcode.com/problems/implement-strstr) |  [kmp.cpp](kmp.cpp) | 
 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries) |  [subrectangle_queries.cpp](subrectangle_queries.cpp) | 
