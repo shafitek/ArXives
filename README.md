@@ -54,6 +54,7 @@ Total: 32
 [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |  [merge_two_binary_trees.cpp](merge_two_binary_trees.cpp) | 
 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |  [binary_tree_inorder_traversal.cpp](binary_tree_inorder_traversal.cpp) | 
 [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) |  [maximum_product_of_three_numbers.cpp](maximum_product_of_three_numbers.cpp) | 
+[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) |  [valid_perfect_square.cpp](valid_perfect_square.cpp) | 
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |  [bulls_and_cows.cpp](bulls_and_cows.cpp) | 
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|  [best_time_to_buy_and_sell_stock.cpp](best_time_to_buy_and_sell_stock.cpp) |
 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|  [best_time_to_buy_and_sell_stock_ii.cpp](best_time_to_buy_and_sell_stock_ii.cpp) | 
