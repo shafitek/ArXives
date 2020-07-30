@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 34
+Total: 36
 
 | Challenge | Filename |
 --- | --- 
@@ -34,6 +34,7 @@ Total: 34
 [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |  [encode_and_decode_tinyurl.cpp](encode_and_decode_tinyurl.cpp) | 
 [Decode Ways](https://leetcode.com/problems/decode-ways) |  [decode_ways.py](decode_ways.py) | Python | 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams) |  [group_anagrams.cpp](group_anagrams.cpp) | 
+[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |  [subarray_sum_equals_k.cpp](subarray_sum_equals_k.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
