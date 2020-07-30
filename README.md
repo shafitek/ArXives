@@ -26,6 +26,7 @@ Total: 34
 
 | Challenge | Filename |
 --- | --- 
+[Arranging Coins](https://leetcode.com/problems/arranging-coins) |  [arranging_coins.cpp](arranging_coins.cpp) | C++ | 
 [TwoSum](https://leetcode.com/problems/two-sum) |  [two_sum.py](two_sum.py) | Python | 
 [Permutation in String](https://leetcode.com/problems/permutation-in-string) |  [permutation_in_a_string.cpp](permutation_in_a_string.cpp) | 
 [Number of Islands](https://leetcode.com/problems/number-of-islands) |  [number_of_islands.py](number_of_islands.py) | Python | 
