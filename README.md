@@ -22,17 +22,18 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 39
+Total: 40
 
 | Challenge | Filename |
 --- | --- 
-[Arranging Coins](https://leetcode.com/problems/arranging-coins) |  [arranging_coins.cpp](arranging_coins.cpp) | C++ | 
-[TwoSum](https://leetcode.com/problems/two-sum) |  [two_sum.py](two_sum.py) | Python | 
+[Arranging Coins](https://leetcode.com/problems/arranging-coins) |  [arranging_coins.cpp](arranging_coins.cpp) |
+[TwoSum](https://leetcode.com/problems/two-sum) |  [two_sum.py](two_sum.py) |
 [Permutation in String](https://leetcode.com/problems/permutation-in-string) |  [permutation_in_a_string.cpp](permutation_in_a_string.cpp) | 
-[Number of Islands](https://leetcode.com/problems/number-of-islands) |  [number_of_islands.py](number_of_islands.py) | Python | 
-[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) |  [number_of_closed_islands.cpp](number_of_closed_islands.cpp) | C++ | 
+[Number of Islands](https://leetcode.com/problems/number-of-islands) |  [number_of_islands.py](number_of_islands.py) |
+[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) |  [number_of_closed_islands.cpp](number_of_closed_islands.cpp) |
 [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |  [encode_and_decode_tinyurl.cpp](encode_and_decode_tinyurl.cpp) | 
-[Decode Ways](https://leetcode.com/problems/decode-ways) |  [decode_ways.py](decode_ways.py) | Python | 
+[Shopping Offers](https://leetcode.com/problems/shopping-offers) |  [shopping_offers.cpp](shopping_offers.cpp) |
+[Decode Ways](https://leetcode.com/problems/decode-ways) |  [decode_ways.py](decode_ways.py) | 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams) |  [group_anagrams.cpp](group_anagrams.cpp) | 
 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |  [subarray_sum_equals_k.cpp](subarray_sum_equals_k.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
