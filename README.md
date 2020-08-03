@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 40
+Total: 43
 
 | Challenge | Filename |
 --- | --- 
@@ -37,6 +37,7 @@ Total: 40
 [Group Anagrams](https://leetcode.com/problems/group-anagrams) |  [group_anagrams.cpp](group_anagrams.cpp) | 
 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |  [subarray_sum_equals_k.cpp](subarray_sum_equals_k.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
+[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |  [minimum_window_substring.cpp](minimum_window_substring.cpp) | 
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
 [Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
@@ -54,6 +55,8 @@ Total: 40
 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |  [linked_list_cycle.cpp](linked_list_cycle.cpp) | 
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) |  [reverse_linked_list.cpp](reverse_linked_list.cpp) | 
 [First Bad Version](https://leetcode.com/problems/first-bad-version) |  [first_bad_version.cpp](first_bad_version.cpp) | 
+[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) |  [running_sum_of_1d_array.cpp](running_sum_of_1d_array.cpp) | 
+[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) |  [xor_operation_in_an_array.cpp](xor_operation_in_an_array.cpp) | 
 [Baseball Game](https://leetcode.com/problems/baseball-game) |  [baseball_game.cpp](baseball_game.cpp) | 
 [Flood Fill](https://leetcode.com/problems/flood-fill) |  [flood_fill.cpp](flood_fill.cpp) | 
 [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |  [merge_two_binary_trees.cpp](merge_two_binary_trees.cpp) | 
