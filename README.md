@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 43
+Total: 44
 
 | Challenge | Filename |
 --- | --- 
@@ -64,6 +64,7 @@ Total: 43
 [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) |  [maximum_product_of_three_numbers.cpp](maximum_product_of_three_numbers.cpp) | 
 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) |  [valid_perfect_square.cpp](valid_perfect_square.cpp) | 
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |  [bulls_and_cows.cpp](bulls_and_cows.cpp) | 
+[Water Bottles](https://leetcode.com/problems/water-bottles) |  [water_bottles.cpp](water_bottles.cpp) | 
 [Path Sum](https://leetcode.com/problems/path-sum) |  [path_sum.cpp](path_sum.cpp) | 
 [Path Sum II](https://leetcode.com/problems/path-sum-ii) |  [path_sum_ii.cpp](path_sum_ii.cpp) | 
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|  [best_time_to_buy_and_sell_stock.cpp](best_time_to_buy_and_sell_stock.cpp) |
