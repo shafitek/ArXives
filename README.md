@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 45
+Total: 46
 
 | Challenge | Filename |
 --- | --- 
@@ -38,6 +38,7 @@ Total: 45
 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |  [subarray_sum_equals_k.cpp](subarray_sum_equals_k.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |  [minimum_window_substring.cpp](minimum_window_substring.cpp) | 
+[Friend Circles](https://leetcode.com/problems/friend-circles) |  [friend_circles.cpp](friend_circles.cpp) | 
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
 [Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
