@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 48
+Total: 49
 
 | Challenge | Filename |
 --- | --- 
@@ -59,6 +59,7 @@ Total: 48
 [First Bad Version](https://leetcode.com/problems/first-bad-version) |  [first_bad_version.cpp](first_bad_version.cpp) | 
 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) |  [running_sum_of_1d_array.cpp](running_sum_of_1d_array.cpp) | 
 [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) |  [xor_operation_in_an_array.cpp](xor_operation_in_an_array.cpp) | 
+[Employee Importance](https://leetcode.com/problems/employee-importance) |  [employee_importance.cpp](employee_importance.cpp) | 
 [Baseball Game](https://leetcode.com/problems/baseball-game) |  [baseball_game.cpp](baseball_game.cpp) | 
 [Flood Fill](https://leetcode.com/problems/flood-fill) |  [flood_fill.cpp](flood_fill.cpp) | 
 [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |  [merge_two_binary_trees.cpp](merge_two_binary_trees.cpp) | 
