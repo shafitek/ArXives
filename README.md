@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 52
+Total: 54
 
 | Challenge | Filename |
 --- | --- 
@@ -67,6 +67,7 @@ Total: 52
 [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |  [merge_two_binary_trees.cpp](merge_two_binary_trees.cpp) | 
 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |  [binary_tree_inorder_traversal.cpp](binary_tree_inorder_traversal.cpp) | 
 [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) |  [maximum_product_of_three_numbers.cpp](maximum_product_of_three_numbers.cpp) | 
+[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) |  [check_if_it_is_a_straight_line.cpp](check_if_it_is_a_straight_line.cpp) | 
 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) |  [valid_perfect_square.cpp](valid_perfect_square.cpp) | 
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |  [bulls_and_cows.cpp](bulls_and_cows.cpp) | 
 [Water Bottles](https://leetcode.com/problems/water-bottles) |  [water_bottles.cpp](water_bottles.cpp) | 
@@ -76,5 +77,6 @@ Total: 52
 [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|  [best_time_to_buy_and_sell_stock_ii.cpp](best_time_to_buy_and_sell_stock_ii.cpp) | 
 [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)|  [verifying_an_alien_dictionary.cpp](verifying_an_alien_dictionary.cpp) | 
 [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|  [sum_root_to_leaf_numbers.cpp](sum_root_to_leaf_numbers.cpp) | 
+[Ugly Number](https://leetcode.com/problems/ugly-number)|  [ugly_number.cpp](ugly_number.cpp) | 
 [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|  [univalued_binary_tree.cpp](univalued_binary_tree.cpp) | 
 [Unique Email Address](https://leetcode.com/problems/unique-email-addresses)|  [unique_email_addresses.cpp](unique_email_addresses.cpp) | 
