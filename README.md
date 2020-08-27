@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 54
+Total: 56
 
 | Challenge | Filename |
 --- | --- 
@@ -44,6 +44,7 @@ Total: 54
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
 [Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
+[Surrounded Regions](https://leetcode.com/problems/surrounded-regions) |  [surrounded_regions.cpp](surrounded_regions.cpp) | 
 [Implement strStr()](https://leetcode.com/problems/implement-strstr) |  [kmp.cpp](kmp.cpp) | 
 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries) |  [subrectangle_queries.cpp](subrectangle_queries.cpp) | 
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |  [generate_parentheses.cpp](generate_parentheses.cpp) | 
@@ -71,6 +72,7 @@ Total: 54
 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) |  [valid_perfect_square.cpp](valid_perfect_square.cpp) | 
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |  [bulls_and_cows.cpp](bulls_and_cows.cpp) | 
 [Water Bottles](https://leetcode.com/problems/water-bottles) |  [water_bottles.cpp](water_bottles.cpp) | 
+[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) |  [pascals_triangle_ii.cpp](pascals_triangle_ii.cpp) | 
 [Path Sum](https://leetcode.com/problems/path-sum) |  [path_sum.cpp](path_sum.cpp) | 
 [Path Sum II](https://leetcode.com/problems/path-sum-ii) |  [path_sum_ii.cpp](path_sum_ii.cpp) | 
 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|  [best_time_to_buy_and_sell_stock.cpp](best_time_to_buy_and_sell_stock.cpp) |
