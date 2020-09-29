@@ -1,96 +1,52 @@
 // https://leetcode.com/problems/pacific-atlantic-water-flow/
 
-// INCOMPLETE!
-class Solution
-{
+class Solution {
 public:
-    vector<vector<int>> pacificAtlantic(vector<vector<int>> &matrix)
-    {
+    int m, n;
+    vector<vector<int>> pacificAtlantic(vector<vector<int>>& matrix) {    
         vector<vector<int>> soln;
+        
+        if (matrix.size() == 0) return soln;
+        m = matrix.size();
+        n = matrix[0].size();
+        
+        vector<vector<bool>> pacific (m, vector<bool> (n, false));
+        vector<vector<bool>> atlantic (m, vector<bool> (n, false));
 
-        if (matrix.size() == 0)
-            return soln;
-        int v = matrix.size();
-        int h = matrix[0].size();
-
-        vector<vector<bool>> pacific(matrix.size(), vector<bool>(matrix[0].size(), false));
-        vector<vector<bool>> atlantic(matrix.size(), vector<bool>(matrix[0].size(), false));
-
-        for (int i = 0; i < matrix[0].size(); i++)
+        for (int i = 0; i < n; i++)
         {
-            pacific[0][i] = true;
-            atlantic[matrix.size() - 1][i] = true;
+            checkFlow(matrix, pacific, 0, i, matrix[0][i]);
+            checkFlow(matrix, atlantic, m - 1, i, matrix[m - 1][i]);
         }
 
-        for (int i = 0; i < matrix.size(); i++)
+        for (int i = 0; i < m; i++)
         {
-            pacific[i][0] = true;
-            atlantic[i][matrix[0].size() - 1] = true;
+            checkFlow(matrix, pacific, i, 0, matrix[i][0]);
+            checkFlow(matrix, atlantic, i, n - 1, matrix[i][n - 1]);
         }
-
-        for (int i = 1; i < matrix.size(); i++)
+        
+        for (int i = 0; i < m; i++)
         {
-            for (int j = 1; j < matrix[0].size(); j++)
-            {
-                isPacificReachable(matrix, pacific, i, j, matrix[i][j]);
-            }
-        }
-        for (int i = 0; i < matrix.size() - 1; i++)
-        {
-            for (int j = 0; j < matrix[0].size() - 1; j++)
-            {
-                isAtlanticReachable(matrix, atlantic, i, j, matrix[i][j]);
-            }
-        }
-
-        for (int i = 0; i < matrix.size(); i++)
-        {
-            for (int j = 0; j < matrix[0].size(); j++)
+            for (int j = 0; j < n; j++)
             {
                 if (pacific[i][j] && atlantic[i][j])
                     soln.push_back({i, j});
             }
         }
-        // PrintMatrix(pacific);
-        // PrintMatrix(atlantic);
+                        
         return soln;
     }
-
-    bool isPacificReachable(vector<vector<int>> &matrix, vector<vector<bool>> &pacific, int i, int j, int last_val)
-    {
-        if ((i == 0 && (j >= 0 && j < matrix[0].size())) || (j == 0 && (i >= 0 && i < matrix.size())))
-            return pacific[i][j] ? true : (pacific[i][j] || matrix[i][j] <= last_val) ? true : false;
-
-        if (pacific[i][j])
-            return true;
-        if (matrix[i][j] > last_val)
-            return false;
-
-        pacific[i][j] = isPacificReachable(matrix, pacific, i - 1, j, matrix[i][j]) || isPacificReachable(matrix, pacific, i, j - 1, matrix[i][j]);
-
-        return pacific[i][j];
-    }
-
-    bool isAtlanticReachable(vector<vector<int>> &matrix, vector<vector<bool>> &atlantic, int i, int j, int last_val)
-    {
-        if ((i == matrix.size() - 1 && (j >= 0 && j < matrix[0].size())) || (j == matrix[0].size() - 1 && (i >= 0 && i < matrix.size())))
-            return (atlantic[i][j] || matrix[i][j] <= last_val) ? true : false;
-
-        if (atlantic[i][j])
-            return true;
-        if (matrix[i][j] > last_val)
-            return false;
-
-        atlantic[i][j] = isAtlanticReachable(matrix, atlantic, i + 1, j, matrix[i][j]) || isAtlanticReachable(matrix, atlantic, i, j + 1, matrix[i][j]);
-
-        return atlantic[i][j];
-    }
-
-    bool isOutOfBounds(int &v, int &h, int i, int j)
-    {
-        if (i < 0 || i >= v || j < 0 || j >= h)
-            return false;
-        return true;
+    
+    void checkFlow(vector<vector<int>>& matrix, vector<vector<bool>>& ocean, int x, int y, int last_val) {
+        if (x < 0 || x >=m || y < 0 || y >= n || ocean[x][y] || matrix[x][y] < last_val) 
+            return;
+        
+        ocean[x][y] = true;
+        checkFlow(matrix, ocean, x+1, y, matrix[x][y]);
+        checkFlow(matrix, ocean, x, y+1, matrix[x][y]);
+        checkFlow(matrix, ocean, x-1, y, matrix[x][y]);
+        checkFlow(matrix, ocean, x, y-1, matrix[x][y]);
+        
     }
 
     template <class T>
@@ -107,4 +63,5 @@ public:
         }
         cout << "-----" << endl;
     }
+
 };
