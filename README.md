@@ -1,4 +1,4 @@
-# +++ ArXives +++
+# +++ Arxives +++
 This repository contains **my** implementations of some **algorithms** and **programming challenges**. 
 
 The language I implement them in is dependent on my mood... 🙃
@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 56
+Total: 57
 
 | Challenge | Filename |
 --- | --- 
@@ -68,6 +68,7 @@ Total: 56
 [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) |  [merge_two_binary_trees.cpp](merge_two_binary_trees.cpp) | 
 [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |  [binary_tree_inorder_traversal.cpp](binary_tree_inorder_traversal.cpp) | 
 [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) |  [maximum_product_of_three_numbers.cpp](maximum_product_of_three_numbers.cpp) | 
+[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) |  [backspace_string_compare.cpp](backspace_string_compare.cpp) | 
 [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) |  [check_if_it_is_a_straight_line.cpp](check_if_it_is_a_straight_line.cpp) | 
 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) |  [valid_perfect_square.cpp](valid_perfect_square.cpp) | 
 [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) |  [bulls_and_cows.cpp](bulls_and_cows.cpp) | 
