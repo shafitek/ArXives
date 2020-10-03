@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 57
+Total: 60
 
 | Challenge | Filename |
 --- | --- 
@@ -51,6 +51,8 @@ Total: 57
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |  [generate_parentheses.cpp](generate_parentheses.cpp) | 
 [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray) |  [longest_turbulent_subarray.cpp](longest_turbulent_subarray.cpp) | 
 [Group the People Given the Group ...](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) |  [group_the_people_group_size.cpp](group_the_people_group_size.cpp) | 
+[Find All Numbers Disappeared in ...](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) |  [find_all_numbers_disappeared...cpp](find_all_numbers_disappeared_in_an_array.cpp) | 
+[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) |  [find_all_duplicates_in_an_array.cpp](find_all_duplicates_in_an_array.cpp) | 
 [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) |  [x_of_a_kind_in_a_deck_of_cards.cpp](x_of_a_kind_in_a_deck_of_cards.cpp) | 
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|  [contains_duplicate_ii.cpp](contains_duplicate_ii.cpp) | 
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|  [symmetric_tree.cpp](symmetric_tree.cpp) | 
