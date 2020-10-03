@@ -1,4 +1,4 @@
-# +++ Arxives +++
+# +++ Archives +++
 This repository contains **my** implementations of some **algorithms** and **programming challenges**. 
 
 The language I implement them in is dependent on my mood... 🙃
@@ -22,7 +22,7 @@ Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
 ---
 ### Challenges
 
-Total: 60
+Total: 61
 
 | Challenge | Filename |
 --- | --- 
@@ -30,6 +30,7 @@ Total: 60
 [TwoSum](https://leetcode.com/problems/two-sum) |  [two_sum.py](two_sum.py) |
 [Permutation in String](https://leetcode.com/problems/permutation-in-string) |  [permutation_in_a_string.cpp](permutation_in_a_string.cpp) | 
 [Merge Intervals](https://leetcode.com/problems/merge-intervals) |  [merge_intervals.cpp](merge_intervals.cpp) |
+[Next Permutation](https://leetcode.com/problems/next-permutation) |  [next_permutation.cpp](next_permutation.cpp) |
 [Number of Islands](https://leetcode.com/problems/number-of-islands) |  [number_of_islands.py](number_of_islands.py) |
 [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) |  [number_of_closed_islands.cpp](number_of_closed_islands.cpp) |
 [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) |  [encode_and_decode_tinyurl.cpp](encode_and_decode_tinyurl.cpp) | 
