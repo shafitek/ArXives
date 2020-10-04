@@ -18,6 +18,7 @@ Binary Search | bin_search.cpp | CLRS |
 Merge Sort | merge_sort.cpp | CLRS | 
 Quick Sort | quick_sort.cpp | CLRS | 
 Knuth-Morris-Pratt | kmp.cpp | CLRS, pg 1005-1006 |
+Producer Consumer | producer_consumer.cpp |  |
 
 ---
 ### Challenges

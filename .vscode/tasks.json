@@ -1,0 +1,119 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "C: Build & Run",
+            "type": "shell",
+            "windows": {
+                "command": ".\\scripts\\test.cmd"
+            },
+            "linux": {
+                "command": "gcc -std=c17 -pthread -Wall -g \"${relativeFile}\" -o \"${workspaceRoot}/bin/${fileBasenameNoExtension}\" && gnome-terminal -- bash -c '${workspaceRoot}/bin/${fileBasenameNoExtension} $(<${workspaceRoot}/arguments.dat) && echo && echo Press any key to continue... && read -n1 && exit'",
+                "options": {
+                    "cwd": "${workspaceFolder}"
+                },
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": {
+                "owner": "c",
+                "fileLocation": [
+                    "relative",
+                    "${workspaceRoot}"
+                ],
+                "pattern": {
+                    "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+                }
+            },
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "C++: Build",
+            "type": "shell",
+            "windows": {
+                "command": ".\\scripts\\test.cmd"
+            },
+            "linux": {
+                // "command": "g++ -std=c++17 -pthread -Wall -g \"${relativeFile}\" -o \"${workspaceRoot}/bin/${fileBasenameNoExtension}\" && gnome-terminal -- bash -c '${workspaceRoot}/bin/${fileBasenameNoExtension} $(<${workspaceRoot}/arguments.dat) && echo && echo Press any key to continue... && read -n1 && exit'",
+                "command": "g++ -std=c++17 -pthread -Wall -g \"${relativeFile}\" -o \"${workspaceRoot}/bin/${fileBasenameNoExtension}\"",
+                "options": {
+                    "cwd": "${workspaceFolder}"
+                },
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": {
+                "owner": "cpp",
+                "fileLocation": [
+                    "relative",
+                    "${workspaceRoot}"
+                ],
+                "pattern": {
+                    "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "column": 3,
+                    "severity": 4,
+                    "message": 5
+                }
+            },
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Generate Assembly Code",
+            "type": "shell",
+            "windows": {
+                "command": ".\\scripts\\test.cmd"
+            },
+            "linux": {
+                "command": "cd asm && g++ -std=c++17 -S -masm=intel -fverbose-asm \"${relativeFile}\"",
+            },
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Debug (GDB)",
+            "type": "shell",
+            "windows": {
+                "command": ""
+            },
+            "linux": {
+                "command": "gnome-terminal -e 'gdb ${workspaceRoot}/bin/${fileBasenameNoExtension}'",
+            },
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Debug (Nemiver)",
+            "type": "shell",
+            "linux": {
+                "command": "gnome-terminal -e 'nemiver ${workspaceRoot}/bin/${fileBasenameNoExtension}'",
+            },
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
