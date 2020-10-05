@@ -23,7 +23,7 @@ Producer Consumer | [producer_consumer.cpp](producer_consumer.cpp) |  |
 ---
 ### Challenges
 
-Total: 62
+Total: 63
 
 | Challenge | Filename |
 --- | --- 
@@ -56,6 +56,7 @@ Total: 62
 [Find All Numbers Disappeared in ...](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) |  [find_all_numbers_disappeared...cpp](find_all_numbers_disappeared_in_an_array.cpp) | 
 [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) |  [find_all_duplicates_in_an_array.cpp](find_all_duplicates_in_an_array.cpp) | 
 [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) |  [fizz_buzz_multithreaded.cpp](fizz_buzz_multithreaded.cpp) | 
+[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) |  [print_zero_even_odd.cpp](print_zero_even_odd.cpp) | 
 [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) |  [x_of_a_kind_in_a_deck_of_cards.cpp](x_of_a_kind_in_a_deck_of_cards.cpp) | 
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|  [contains_duplicate_ii.cpp](contains_duplicate_ii.cpp) | 
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|  [symmetric_tree.cpp](symmetric_tree.cpp) | 
