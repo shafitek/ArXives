@@ -1,16 +1,16 @@
 # +++ Archives +++
-This repository contains **my** implementations of some **algorithms** and **programming challenges**. 
+This repository contains **my** implementations of some **problems**, **algorithms** and **programming challenges**. 
 
 The language I implement them in is dependent on my mood... 🙃
 
 ---
 ## Table of Contents 
-1. [Algorithms](#Algorithms)
+1. [Problems and Algorithms](#Problems-and-Algorithms)
 
 2. [Challenges](#Challenges)
 
-### Algorithms
-| Algorithm | Filename | Reference |
+### Problems and Algorithms
+| Problems | Filename | Reference |
 --- | --- | ---
 Breadth-First Search | bfs.cpp | CLRS | 
 Depth-First Search | dfs.cpp | CLRS | 
@@ -19,11 +19,12 @@ Merge Sort | merge_sort.cpp | CLRS |
 Quick Sort | quick_sort.cpp | CLRS | 
 Knuth-Morris-Pratt | [kmp.cpp](kmp.cpp) | CLRS, pg 1005-1006 |
 Producer Consumer | [producer_consumer.cpp](producer_consumer.cpp) |  |
+Dining Philosopher | [the_dining_philosophers.cpp](the_dining_philosophers.cpp) |  |
 
 ---
 ### Challenges
 
-Total: 63
+Total: 64
 
 | Challenge | Filename |
 --- | --- 
@@ -43,6 +44,7 @@ Total: 63
 [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |  [longest_common_subsequence.cpp](longest_common_subsequence.cpp) | 
 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |  [minimum_window_substring.cpp](minimum_window_substring.cpp) | 
 [Friend Circles](https://leetcode.com/problems/friend-circles) |  [friend_circles.cpp](friend_circles.cpp) | 
+[The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers) |  [the_dining_philosophers.cpp](the_dining_philosophers.cpp) | 
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |  [pacific_atlantic_water_flow.cpp](pacific_atlantic_water_flow.cpp) | 
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
