@@ -19,12 +19,12 @@ Merge Sort | merge_sort.cpp | CLRS |
 Quick Sort | quick_sort.cpp | CLRS | 
 Knuth-Morris-Pratt | [kmp.cpp](kmp.cpp) | CLRS, pg 1005-1006 |
 Producer Consumer | [producer_consumer.cpp](producer_consumer.cpp) |  |
-Dining Philosopher | [the_dining_philosophers.cpp](the_dining_philosophers.cpp) |  |
+Dining Philosophers | [the_dining_philosophers.cpp](the_dining_philosophers.cpp) |  |
 
 ---
 ### Challenges
 
-Total: 64
+Total: 65
 
 | Challenge | Filename |
 --- | --- 
@@ -59,6 +59,7 @@ Total: 64
 [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) |  [find_all_duplicates_in_an_array.cpp](find_all_duplicates_in_an_array.cpp) | 
 [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded) |  [fizz_buzz_multithreaded.cpp](fizz_buzz_multithreaded.cpp) | 
 [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd) |  [print_zero_even_odd.cpp](print_zero_even_odd.cpp) | 
+[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately) |  [print_foobar_alternately.cpp](print_foobar_alternately.cpp) | 
 [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) |  [x_of_a_kind_in_a_deck_of_cards.cpp](x_of_a_kind_in_a_deck_of_cards.cpp) | 
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|  [contains_duplicate_ii.cpp](contains_duplicate_ii.cpp) | 
 [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|  [symmetric_tree.cpp](symmetric_tree.cpp) | 
