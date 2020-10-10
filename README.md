@@ -24,7 +24,7 @@ Dining Philosophers | [the_dining_philosophers.cpp](the_dining_philosophers.cpp)
 ---
 ### Challenges
 
-Total: 66
+Total: 67
 
 | Challenge | Filename |
 --- | --- 
@@ -39,6 +39,7 @@ Total: 66
 [Shopping Offers](https://leetcode.com/problems/shopping-offers) |  [shopping_offers.cpp](shopping_offers.cpp) |
 [Decode Ways](https://leetcode.com/problems/decode-ways) |  [decode_ways.py](decode_ways.py) | 
 [Group Anagrams](https://leetcode.com/problems/group-anagrams) |  [group_anagrams.cpp](group_anagrams.cpp) | 
+[Partition Labels](https://leetcode.com/problems/partition-labels) |  [partition_labels.cpp](partition_labels.cpp) | 
 [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) |  [subarray_sum_equals_k.cpp](subarray_sum_equals_k.cpp) | 
 [Course Schedule](https://leetcode.com/problems/course-schedule) |  [course_schedule.cpp](course_schedule.cpp) | 
 [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) |  [longest_common_subsequence.cpp](longest_common_subsequence.cpp) | 
