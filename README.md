@@ -24,7 +24,7 @@ Dining Philosophers | [the_dining_philosophers.cpp](the_dining_philosophers.cpp)
 ---
 ### Challenges
 
-Total: 67
+Total: 68
 
 | Challenge | Filename |
 --- | --- 
@@ -56,6 +56,7 @@ Total: 67
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |  [generate_parentheses.cpp](generate_parentheses.cpp) | 
 [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray) |  [longest_turbulent_subarray.cpp](longest_turbulent_subarray.cpp) | 
 [Group the People Given the Group ...](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) |  [group_the_people_group_size.cpp](group_the_people_group_size.cpp) | 
+[Reorder Routes to Make All Paths ...](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) |  [reorder-routes-to-make...cpp](reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp) | 
 [Display Table of Food Orders in a...](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant) |  [display_table_of_food_orders_in_a...cpp](display_table_of_food_orders_in_a_restaurant.cpp) | 
 [Find All Numbers Disappeared in ...](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) |  [find_all_numbers_disappeared...cpp](find_all_numbers_disappeared_in_an_array.cpp) | 
 [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) |  [find_all_duplicates_in_an_array.cpp](find_all_duplicates_in_an_array.cpp) | 
