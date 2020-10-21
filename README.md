@@ -24,7 +24,7 @@ Dining Philosophers | [the_dining_philosophers.cpp](the_dining_philosophers.cpp)
 ---
 ### Challenges
 
-Total: 68
+Total: 69
 
 | Challenge | Filename |
 --- | --- 
@@ -46,6 +46,7 @@ Total: 68
 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |  [minimum_window_substring.cpp](minimum_window_substring.cpp) | 
 [Friend Circles](https://leetcode.com/problems/friend-circles) |  [friend_circles.cpp](friend_circles.cpp) | 
 [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers) |  [the_dining_philosophers.cpp](the_dining_philosophers.cpp) | 
+[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum) |  [matrix_block_sum.cpp](matrix_block_sum.cpp) | 
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |  [pacific_atlantic_water_flow.cpp](pacific_atlantic_water_flow.cpp) | 
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
