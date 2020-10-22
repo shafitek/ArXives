@@ -24,7 +24,7 @@ Dining Philosophers | [the_dining_philosophers.cpp](the_dining_philosophers.cpp)
 ---
 ### Challenges
 
-Total: 69
+Total: 70
 
 | Challenge | Filename |
 --- | --- 
@@ -48,6 +48,7 @@ Total: 69
 [The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers) |  [the_dining_philosophers.cpp](the_dining_philosophers.cpp) | 
 [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum) |  [matrix_block_sum.cpp](matrix_block_sum.cpp) | 
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |  [pacific_atlantic_water_flow.cpp](pacific_atlantic_water_flow.cpp) | 
+[Count Square Submatrices with ...](https://leetcode.com/problems/count-square-submatrices-with-all-ones) |  [count-square-submatrices-with-...cpp](count-square-submatrices-with-all-ones.cpp) | 
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
 [Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
