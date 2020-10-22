@@ -24,7 +24,7 @@ Dining Philosophers | [the_dining_philosophers.cpp](the_dining_philosophers.cpp)
 ---
 ### Challenges
 
-Total: 70
+Total: 71
 
 | Challenge | Filename |
 --- | --- 
@@ -52,6 +52,7 @@ Total: 70
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
 [Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
+[Counting Bits](https://leetcode.com/problems/counting-bits) |  [counting-bits.cpp](counting-bits.cpp) | 
 [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) |  [surrounded_regions.cpp](surrounded_regions.cpp) | 
 [Implement strStr()](https://leetcode.com/problems/implement-strstr) |  [kmp.cpp](kmp.cpp) | 
 [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries) |  [subrectangle_queries.cpp](subrectangle_queries.cpp) | 
