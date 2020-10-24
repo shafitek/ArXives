@@ -24,7 +24,7 @@ Dining Philosophers | [the_dining_philosophers.cpp](the_dining_philosophers.cpp)
 ---
 ### Challenges
 
-Total: 72
+Total: 73
 
 | Challenge | Filename |
 --- | --- 
@@ -50,6 +50,7 @@ Total: 72
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) |  [pacific_atlantic_water_flow.cpp](pacific_atlantic_water_flow.cpp) | 
 [Count Square Submatrices with ...](https://leetcode.com/problems/count-square-submatrices-with-all-ones) |  [count-square-submatrices-with-...cpp](count-square-submatrices-with-all-ones.cpp) | 
 [Minimum Cost Tree From Leaf ...](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values) |  [minimum-cost-tree-from-leaf-v...cpp](minimum-cost-tree-from-leaf-values.cpp) | 
+[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) |  [partition-array-for-maximum-sum.cpp](partition-array-for-maximum-sum.cpp) | 
 [3Sum](https://leetcode.com/problems/3sum) |  [3_sum.cpp](3_sum.cpp) | 
 [01 Matrix](https://leetcode.com/problems/01-matrix) |  [01_matrix.cpp](01_matrix.cpp) | 
 [Unique Paths](https://leetcode.com/problems/unique-paths) |  [unique_paths.cpp](unique_paths.cpp) | 
